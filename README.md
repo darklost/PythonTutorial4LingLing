@@ -7,4 +7,4 @@
   
 
 ## 教程
-1. CS_00-[第一个`python`程序](./CS_00/README.MD)
+1. CS_00-[第一个python程序](./CS_00/README.md)
