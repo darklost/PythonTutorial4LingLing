@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on 2024-01-05 13:24:00
+@usage: python main.py --pdf_file=xxx.pdf --docx_file=xxx.docx
+@version: 1.0.0
+@content: 用于将pdf转换为docx
 @author: D.K.
 """
 import argparse
