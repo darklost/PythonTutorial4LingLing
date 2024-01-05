@@ -216,7 +216,7 @@ if __name__ == "__main__":
                                     fastposter(v2.17.1)     
                              https://fastposter.net/doc/   
                                                             '''
-    PORT = 5000
+    PORT = 5001
     print(banner)
     uri = os.environ.get('POSTER_URI_PREFIX', f'http://0.0.0.0:{PORT}/')
     print(f'Listening at {uri}\n')
